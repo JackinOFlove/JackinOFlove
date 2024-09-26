@@ -12,5 +12,5 @@ JackinOFlove/JackinOFlove is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 ![JackinOFlove's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackinOFlove&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![JackinOFlove's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JackinOFlove&layout=compact&hide_border=true&langs_count=8&theme=tokyonight)
+![JackinOFlove's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JackinOFlove&layout=compact&hide_border=true&langs_count=10&theme=tokyonight)
 
