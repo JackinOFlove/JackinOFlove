@@ -4,7 +4,7 @@
 - 🔭 I’m currently studying at the School of Computer Science and Technology, Tongji University, majoring in software engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: jklin7918@gmail.com
-- 😄 Pronouns: Puxian language 
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
