@@ -1,11 +1,9 @@
-
-- 👋 Hi, I’m @JackinOFlove
-- 👀 I’m interested in ...
-- 🔭 I’m currently studying at the School of Computer Science and Technology, Tongji University, majoring in software engineering
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I'm @JackinOFlove
+- 👀 I'm interested in Large Language Models (LLMs), Multimodal Learning, Reinforcement Learning, and Medical AI
+- 🔭 I'm currently studying at the School of Computer Science and Technology, Tongji University, majoring in software engineering with a focus on Machine Intelligence
+- 💞️ I'm looking to collaborate on research projects in AI, particularly in Large Language Models and Multimodal Systems
 - 📫 How to reach me: jklin7918@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
 
 <!---
 JackinOFlove/JackinOFlove is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
