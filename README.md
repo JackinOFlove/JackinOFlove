@@ -14,7 +14,7 @@
 
 ## 🧠 About Me <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="100">
 
-<ul style="list-style-type: none;">
+<ul style="list-style-type: none; text-align: left;">
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="20" height="20" alt="Telescope" /> I'm interested in <b>Large Language Models (LLMs)</b>, <b>Multimodal Learning</b>, <b>Reinforcement Learning</b>, and <b>Medical AI</b>
   </li>
@@ -43,16 +43,14 @@ You can click the Preview link to take a look at your changes.
 
 
 <div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=JackinOFlove&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=3498db&icon_color=3498db&text_color=FFFFFF" alt="JackinOFlove's GitHub stats" />
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <div>
+      <h3>📊 GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=JackinOFlove&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=3498db&icon_color=3498db&text_color=FFFFFF" alt="JackinOFlove's GitHub stats" />
+    </div>
+    <div>
+      <h3>🔥 Most Used Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackinOFlove&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=3498db" alt="JackinOFlove's Most used languages" />
+    </div>
+  </div>
 </div>
-
-
-
-
-
-<div align="center">
-  <h3>🔥 Most Used Languages</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackinOFlove&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=3498db" alt="JackinOFlove's Most used languages" />
-</div>
-
